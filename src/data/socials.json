@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/mohamed-rahmani-uspn13/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/mohamed-rahmani",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:mohamedrahmani.contact@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}
