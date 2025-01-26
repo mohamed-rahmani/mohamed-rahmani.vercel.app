@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "name": "Netdev",
+      "description": "Application web réseau social de développeur permettant aux utilisateurs de se connecter uniquement avec github",
+      "image": "/netdev-demo.gif",
+      "tags": [
+        "TailwindCSS",
+        "Typescript",
+        "React",
+        "NextJS",
+        "Prisma",
+        "PostgreSQL",
+        "NeonDB",
+        "Vercel"
+      ],
+      "links": [
+        {
+          "name": "Site Web",
+          "href": "https://netdev.vercel.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/mohamed-rahmani/NetDev",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Decrypto",
+      "description": "Application web qui initie les utlisateurs à la cryptographie avec l'algorithme RSA, Affine et César",
+      "image": "/decrypto-demo.gif",
+      "tags": ["Typescript", "React", "NextJS", "Vercel"],
+      "links": [
+        {
+          "name": "Site Web",
+          "href": "https://decryptoo.vercel.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/mohamed-rahmani/Decrypto",
+          "icon": "github"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "education": [
+    {
+      "name": "Université Sorbonne Paris Nord / IUT de Villetaneuse",
+      "href": "https://www.univ-spn.fr/",
+      "title": "BUT Informatique",
+      "logo": "/uspn.png",
+      "start": "Septembre 2022",
+      "end": "Juillet 2025",
+      "description": [
+        "Développement d'application",
+        "Optimisation algorithmique",
+        "Administration système & Virtualisation",
+        "Gestion de projet"
+      ],
+      "links": [
+        {
+          "name": "Portfolio",
+          "href": "/projects",
+          "icon": "folder-code"
+        }
+      ]
+    },
+    {
+      "name": "Lycée Maurice Utrillo",
+      "href": "https://lyceeutrillo.fr/",
+      "title": "Baccalauréat général S, Mathématiques et Informatique option Latin et Math expert",
+      "logo": "/maurice-utrillo.png",
+      "start": "Septembre 2019",
+      "end": "Juillet 2022",
+      "description": ["Mention: BIEN"]
+    }
+  ]
+}

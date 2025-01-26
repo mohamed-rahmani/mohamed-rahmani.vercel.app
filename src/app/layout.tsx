@@ -1,5 +1,5 @@
-import Footer from "@/components/Footer";
-import Header from "@/components/Header";
+import Footer from "@/components/feature/layout/Footer";
+import Header from "@/components/feature/layout/Header";
 import Providers from "@/components/Providers";
 import { cn } from "@/lib/utils";
 import type { Metadata } from "next";
@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="fr">
+    <html lang="fr" suppressHydrationWarning>
       <body
         className={cn(
           "mx-auto flex min-h-screen max-w-3xl flex-col px-8 font-sans antialiased",

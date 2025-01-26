@@ -1,0 +1,18 @@
+{
+  "skills": [
+    {
+      "name": "React",
+      "image": "/react.webp",
+      "description": "Framework JS"
+    },
+    {
+      "name": "Typescript",
+      "image": "/typescript.png"
+    },
+    {
+      "name": "TailwindCSS",
+      "image": "/tailwindcss.svg",
+      "description": "Framework CSS"
+    }
+  ]
+}
