@@ -39,17 +39,23 @@ export function ProjectCard({ project }: Props) {
         <Markdown className="prose max-w-full text-pretty font-sans text-xs text-muted-foreground dark:prose-invert">
           {description}
         </Markdown>
+        <Link
+          href={"/projects/" + name}
+          className="text-xs text-blue-500 hover:underline inline w-fit"
+        >
+          En savoir plus
+        </Link>
       </CardContent>
       <CardFooter className="flex h-full flex-col items-start justify-between gap-4">
         {tags && tags.length > 0 && (
           <div className="mt-2 flex flex-wrap gap-1">
             {tags.toSorted().map((tag) => (
               <Badge
-                key={tag}
+                key={tag.name}
                 className="px-1 py-0 text-[10px]"
                 variant="secondary"
               >
-                {tag}
+                {tag.name}
               </Badge>
             ))}
           </div>

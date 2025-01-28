@@ -3,16 +3,44 @@
     {
       "name": "Netdev",
       "description": "Application web réseau social de développeur permettant aux utilisateurs de se connecter uniquement avec github",
+      "content": [
+        "Après avoir découvert React lors de l'un de mes projets universitaires, j'ai décidé de m'autoformer sur React et je suis tombé sur le framework NextJS qui est un framework Javascript basé React. Après avoir suivi quelque formations sur le framework et sur React, j'ai voulu mettre mes compétences à l'épreuve et quoi de mieux que de créer un projet pour ça.",
+        "NetDev c'est une application web qui, à l'image de twitter(X), permet d'envoyer des messages accompagné d'une image avec un système de likes et de commentaires et chaque utilisateur possède un profil qu'il peut modifier à sa guise."
+      ],
       "image": "/netdev-demo.gif",
       "tags": [
-        "TailwindCSS",
-        "Typescript",
-        "React",
-        "NextJS",
-        "Prisma",
-        "PostgreSQL",
-        "NeonDB",
-        "Vercel"
+        {
+          "name": "TailwindCSS",
+          "image": "/Tailwindcss.svg"
+        },
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "NextJS",
+          "image": "/Nextjs.svg"
+        },
+        {
+          "name": "Prisma",
+          "image": "/Prisma.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "/Postgresql.png"
+        },
+        {
+          "name": "NeonDB",
+          "image": "/Neondb.png"
+        },
+        {
+          "name": "Vercel",
+          "image": "/Vercel.png"
+        }
       ],
       "links": [
         {
@@ -29,9 +57,33 @@
     },
     {
       "name": "Decrypto",
-      "description": "Application web qui initie les utlisateurs à la cryptographie avec l'algorithme RSA, Affine et César",
+      "description": "Application web qui initie les utlisateurs à la cryptographie avec les algorithme RSA, Affine et César",
+      "content": [
+        "Après avoir découvert la cryptographie à travers les algorithme de RSA, Affine et César pendant ma formation de BUT Informatique, j'ai décidé de développer une application web qui permet aux utilisateurs d'un peu mieux comprendre ces algorithmes et surtout d'avoir une démonstration de leur implémentation."
+      ],
       "image": "/decrypto-demo.gif",
-      "tags": ["Typescript", "React", "NextJS", "Vercel"],
+      "tags": [
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "TailwindCSS",
+          "image": "/Tailwindcss.svg"
+        },
+        {
+          "name": "NextJS",
+          "image": "/Nextjs.svg"
+        },
+        {
+          "name": "Vercel",
+          "image": "/Vercel.png"
+        }
+      ],
       "links": [
         {
           "name": "Site Web",

@@ -2,16 +2,16 @@
   "skills": [
     {
       "name": "React",
-      "image": "/react.webp",
+      "image": "/React.webp",
       "description": "Framework JS"
     },
     {
       "name": "Typescript",
-      "image": "/typescript.png"
+      "image": "/Typescript.png"
     },
     {
       "name": "TailwindCSS",
-      "image": "/tailwindcss.svg",
+      "image": "/Tailwindcss.svg",
       "description": "Framework CSS"
     }
   ]

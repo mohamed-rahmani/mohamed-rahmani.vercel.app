@@ -3,15 +3,38 @@
     {
       "name": "Site de formations",
       "description": "Site web de formations en ligne qui permet aux utilisateurs de trouver des formations à leur goût ou bien d'être formateurs pour donner des formations",
+      "content": [
+        "Durant ma deuxième année de BUT Informatique, j'ai été amené à concevoir et réaliser un site de formations en ligne pour l'entreprise Perform Vision Consulting et à l'occasion, j'ai integré une formidable équipe de 6 personnes en tant qu'auditeur interne.",
+        "L'objectif était de réaliser un audit du site de formations déjà existant en PHP. Dès le début du projet, nous avons donc réfléchi à une nouvelle stack technique du projet tout en essayant de garder ce qui a été fait au niveau logique métier. Pour cela, nous avons opté pour une partie back-end en Laravel, qui est un framework PHP, et côté front-end, nous sommes partis sur React, qui est un framework/librairies Javascript.",
+        "Pour ma part, je me suis principalement concentré sur la migration du code PHP existant vers le framework Laravel, avec une membre de l'équipe, et le développement de fonctionnalités comme un chat de discussion entre les formateurs et des prospect ou encore un système d'authentification. J'ai également particpé au côté front-end de l'application web en développant des composants React comme le sign up et sign in et toute l'interface de discussion des formateurs et des prospects.",
+        "Tout ça, accompagné d'un Trello avec un suivi des tickets et la mise en place d'un repo Gitlab pour le développement collaboratif."
+      ],
       "image": "/site-formation-demo.gif",
       "tags": [
-        "Typescript",
-        "React",
-        "PHP",
-        "Laravel",
-        "PostgreSQL",
-        "CSS",
-        "API Rest"
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "PHP",
+          "image": "/Php.png"
+        },
+        {
+          "name": "Laravel",
+          "image": "/Laravel.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "/Postgresql.png"
+        },
+        {
+          "name": "CSS",
+          "image": "/CSS.webp"
+        }
       ],
       "links": [
         {
@@ -24,21 +47,65 @@
     {
       "name": "Vizucar",
       "description": "Sélecteur multimodal permettant aux utilisateurs de chercher des images de voiture à partir d'un texte",
+      "content": ["Durant ma formation, "],
       "image": "/vizucar-demo.gif",
       "tags": [
-        "Typescript",
-        "React",
-        "NextJS",
-        "TailwindCSS",
-        "Java",
-        "Spring Boot",
-        "API Rest",
-        "MongoDB",
-        "Python",
-        "Selenium",
-        "Docker",
-        "AWS",
-        "Vercel"
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "NextJS",
+          "image": "/Nextjs.svg"
+        },
+        {
+          "name": "ElectronJS",
+          "image": "/Electronjs.png"
+        },
+        {
+          "name": "TailwindCSS",
+          "image": "/Tailwindcss.svg"
+        },
+        {
+          "name": "Java",
+          "image": "/Javaee.png"
+        },
+        {
+          "name": "Spring Boot",
+          "image": "/SpringBoot.webp"
+        },
+        {
+          "name": "API Rest",
+          "image": ""
+        },
+        {
+          "name": "MongoDB",
+          "image": "/Mongodb.svg"
+        },
+        {
+          "name": "Python",
+          "image": "/Python.webp"
+        },
+        {
+          "name": "Selenium",
+          "image": "/Selenium.png"
+        },
+        {
+          "name": "Docker",
+          "image": "/Docker.webp"
+        },
+        {
+          "name": "AWS",
+          "image": "/AWS.png"
+        },
+        {
+          "name": "Vercel",
+          "image": "/Vercel.png"
+        }
       ],
       "links": [
         {
@@ -56,8 +123,34 @@
     {
       "name": "Site intranet",
       "description": "Application web permettant la gestion de service à des clients par le biais de prestataires via des bons de livraisons",
+      "content": ["Durant ma formation, "],
       "image": "/site-intranet-demo.gif",
-      "tags": ["HTML", "CSS", "Javascript", "PHP", "PostgreSQL", "WAMP Server"],
+      "tags": [
+        {
+          "name": "HTML",
+          "image": "/HTML.png"
+        },
+        {
+          "name": "CSS",
+          "image": "/CSS.webp"
+        },
+        {
+          "name": "Javascript",
+          "image": "/Javascript.png"
+        },
+        {
+          "name": "PHP",
+          "image": "/Php.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "/Postgresql.png"
+        },
+        {
+          "name": "WAMP Server",
+          "image": "/WAMP.png"
+        }
+      ],
       "links": [
         {
           "name": "Source",

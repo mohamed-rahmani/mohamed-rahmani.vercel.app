@@ -20,12 +20,18 @@ const iconLink = z.object({
 });
 export type IconLink = z.infer<typeof iconLink>;
 
+const tag = z.object({
+  name: z.string(),
+  image: z.string().optional(),
+});
+
 const project = z.object({
   name: z.string(),
   description: z.string(),
+  content: z.array(z.string()),
   href: z.string().url().optional(),
   image: z.string().optional(),
-  tags: z.array(z.string()),
+  tags: z.array(tag),
   links: z.array(iconLink),
 });
 export const projectSchema = z.object({ projects: z.array(project) });

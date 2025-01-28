@@ -4,7 +4,7 @@ import data2 from "@/data/personal_projects.json";
 import data1 from "@/data/student_projects.json";
 import { projectSchema } from "@/lib/schemas";
 
-export default async function ProjectPage() {
+export default async function ProjectsPage() {
   const student_projects = projectSchema.parse(data1).projects;
   const personal_projects = projectSchema.parse(data2).projects;
   return (
