@@ -16,8 +16,8 @@ export default async function Home() {
     <article className="mt-8 flex flex-col gap-16 pb-16">
       <section className="flex flex-col items-start gap-8 md:flex-row-reverse md:items-center md:justify-between">
         <Image
-          className="rounded-lg w-48 h-48 object-cover"
-          src="/mohamed.jpeg"
+          className="rounded-lg w-48 h-48"
+          src="/mohamed.JPG"
           alt="Photo de Mohamed"
           width={175}
           height={175}
@@ -26,14 +26,15 @@ export default async function Home() {
         <div className="flex flex-col">
           <h1 className="text-5xl">Mohamed RAHMANI</h1>
           <p className="mt-4 font-light">
-            Développeur full stack 💻 de{" "}
             {new Date().getFullYear() - MOHAMED_BIRTH_YEAR}
-            ans
+            {"  ans | "}
+            Développeur Full Stack 💻 | React/JavaEE | Une opportunité de stage,
+            une idée, un projet 🚀 Parlons-en !
           </p>
           <p className="mt-2 font-light">
-            Je cherche activement un stage de 14 à 15 semaine pour mars 2025
+            À la recherce d&apos;un stage de 14 à 15 semaine pour mars 2025
           </p>
-          <section className="mt-8 flex items-center gap-8">
+          <section className="mt-4 flex items-center gap-8">
             <Link href="/CV_Mohamed_RAHMANI.pdf" target="_blank">
               <Button variant="outline">
                 <span className="font-semibold">CV</span>

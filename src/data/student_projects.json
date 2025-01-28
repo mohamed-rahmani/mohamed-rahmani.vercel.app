@@ -47,7 +47,12 @@
     {
       "name": "Vizucar",
       "description": "Sélecteur multimodal permettant aux utilisateurs de chercher des images de voiture à partir d'un texte",
-      "content": ["Durant ma formation, "],
+      "content": [
+        "Pour ma dernière année de BUT Informatique, j'ai eu l'occasion de réaliser un sélecteur multimodal texte vers image sur une thématique au choix dans une équipe de 4 personnes. Nous avons donc choisis par consensus de partir sur un sélecteur multimodal permettant de taper le nom d'une voiture et d'afficher les images pertinentes à la recherche.",
+        "En tant que chef de projet, j'ai accompagné le projet dans l'ensemble de son cycle de vie et dans un peu prêt toutes les tâches du projet en organisant un suivi des tickets sur Trello et leurs deadlines sur Jira.",
+        "Pour ce qui est de l'architecture du projet nous sommes partis sur un site web en NextJS pour permmettre d'installer le sélecteur, une application de bureau windows et linux pour le sélectuer multidoal en ElectronJS et une API Rest en Spring Boot avec MongoDB pour la partie back du sélecteur.",
+        "Pour ma part, je me suis concentré sur le développement du sélecteur multimodal en ElectronJS, avec la réalisation du front-end et l'integration de l'API, la mise en place de l'API Spring Boot et le déploiement de chaque composant logiciel sur AWS avec une marchine virtuelle EC2."
+      ],
       "image": "/vizucar-demo.gif",
       "tags": [
         {
@@ -123,7 +128,10 @@
     {
       "name": "Site intranet",
       "description": "Application web permettant la gestion de service à des clients par le biais de prestataires via des bons de livraisons",
-      "content": ["Durant ma formation, "],
+      "content": [
+        "Durant ma deuxième année de BUT Informatique, j'ai l'occasion de réaliser un site intranet permettant de gérer les relations entre les les clients et les prestataires de l'entreprise Perform Vision Consulting. J'ai donc monté une équipe de 6 personnes pour m'accompagner sur ce projet et la contrainte technique imposé par le cahier des charges était de réaliser ce projet uniquement en PHP avec une architecture MVC et une base de données Postgresql.",
+        "Au fil du projet, j'ai été amené a porter plusieurs casquette en passant par celle de chef de projet, en définissant les grandes directives du projet(Diagramme de GANTT) et les tâches à accomplir(Matrice RACI), à développeur back-end, en réalisant des fonctionnalitées comme le service de connexion et le context des composants de l'application pour chaque rôle des utilisateurs(client, prestataires, gestionnaire, commercial, composante, interlocuteur, administrateur)."
+      ],
       "image": "/site-intranet-demo.gif",
       "tags": [
         {

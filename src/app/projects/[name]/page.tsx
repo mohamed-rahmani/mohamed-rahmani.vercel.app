@@ -59,7 +59,7 @@ export default async function ProjectPage({ params }: PageParams) {
         {project.tags.map((tag) => (
           <Badge
             key={tag.name}
-            className="px-1 py-0 text-sm flex items-center gap-1"
+            className="p-1 text-sm flex items-center gap-1"
             variant="secondary"
           >
             {tag.image && (
