@@ -7,26 +7,24 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 
-type PageParams = {
-  params: {
-    name: string;
-  };
-};
+type PageParams = Promise<{ name: string }>;
 
-export default async function ProjectPage({ params }: PageParams) {
+export default async function ProjectPage({ params }: { params: PageParams }) {
   const { name } = await params;
+  if (!name) {
+    throw notFound();
+  }
+
+  const projectName = decodeURIComponent(name);
   const studentProjects = projectSchema.parse(data1).projects;
   const personalProjects = projectSchema.parse(data2).projects;
 
-  const studentlProject = await getProjectByName(
-    decodeURIComponent(name),
-    studentProjects
-  );
-  let project = studentlProject;
+  const studentProject = await getProjectByName(projectName, studentProjects);
+  let project = studentProject;
 
   if (project == null) {
     const personalProject = await getProjectByName(
-      decodeURIComponent(name),
+      projectName,
       personalProjects
     );
     if (personalProject == null) {
