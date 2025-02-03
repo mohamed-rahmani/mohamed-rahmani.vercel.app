@@ -8,11 +8,10 @@
       "start": "Janvier 2023",
       "end": "Mars 2023",
       "description": [
-        "Réalisation d’un benchmarking concurrentiel pour analyser les tendances et les bonnes pratiques en e-commerce.",
-        "Conception d’une maquette fonctionnelle du site de e-commerce en accord avec les données recueillies sur le benchmark avec draw.io et figma.",
-        "Réalisation de la template du site en HTML/CSS/Javascript en accord avec la maquette avec un suivi des tickets sur Jira/Trello.",
-        "Intégration de la template dans le CMS Shopify et des données de la boutique dans la template à l’aide du langage de template LIQUID.",
-        "Optimisation du score SEO du site afin d’améliorer son positionnement sur le moteur de recherche Google."
+        "Recueil des besoins du site de e-commerce et analyse des tendances et bonnes pratiques en e-commerce.",
+        "Conception d’une maquette du site sur Figma et draw.io.",
+        "Réalisation du site en HTML5/CSS3/Javascript et LIQUID.",
+        "Optimisation du score SEO du site."
       ]
     }
   ]
