@@ -32,7 +32,8 @@ export default async function Home() {
             une idée, un projet 🚀 Parlons-en !
           </p>
           <p className="mt-2 font-light">
-            À la recherce d&apos;un stage de 14 à 15 semaine pour mars 2025
+            À la recherce d&apos;un stage de 3 à <strong>6 mois</strong> pour
+            mars 2025
           </p>
           <section className="mt-4 flex items-center gap-8">
             <Link href="/CV_Mohamed_RAHMANI.pdf" target="_blank">
