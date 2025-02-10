@@ -28,7 +28,7 @@ export default async function Home() {
           <p className="mt-4 font-light">
             {new Date().getFullYear() - MOHAMED_BIRTH_YEAR}
             {"  ans | "}
-            Développeur Full Stack 💻 | React/JavaEE | Une opportunité de stage,
+            Développeur Full Stack 💻 | React/Java | Une opportunité de stage,
             une idée, un projet 🚀 Parlons-en !
           </p>
           <p className="mt-2 font-light">

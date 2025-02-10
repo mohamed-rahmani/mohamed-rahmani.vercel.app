@@ -1,6 +1,110 @@
 {
   "projects": [
     {
+      "name": "Cov'Aire",
+      "description": "Application web permettant de chercher toutes les aires de covoiturage en France",
+      "content": [
+        "Dans l'optique de mettre en pratique mes connaissances du Framework Spring Boot, j'ai décidé de réaliser cette application web qui permet avec une simple recherche de trouver toutes les aires de covoiturage disponibles en France grâce aux données publiées par BlaBlaCar."
+      ],
+      "image": "/covaire.png",
+      "tags": [
+        {
+          "name": "TailwindCSS",
+          "image": "/Tailwindcss.svg"
+        },
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "NextJS",
+          "image": "/Nextjs.svg"
+        },
+        {
+          "name": "Spring Boot",
+          "image": "/SpringBoot.webp"
+        },
+        {
+          "name": "Java",
+          "image": "/Javaee.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "/Postgresql.png"
+        },
+        {
+          "name": "Vercel",
+          "image": "/Vercel.png"
+        },
+        {
+          "name": "Docker",
+          "image": "/Docker.webp"
+        },
+        {
+          "name": "AWS",
+          "image": "/AWS.png"
+        }
+      ],
+      "links": [
+        {
+          "name": "Site Web",
+          "href": "https://covaire.vercel.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/mohamed-rahmani/CovAire",
+          "icon": "github"
+        }
+      ]
+    },
+    {
+      "name": "Site portfolio",
+      "description": "Mon site portoflio répertoriant tout mes projets et mes expériences",
+      "content": [
+        "Aujourd'hui un CV seul ne suffit plus pour montrer tout ce que l'on sait faire, ce qui est encore plus vrai quand on est développeur. Ainsi pour apporter un peu plus de détails sur mon profil, j'ai réalisé ce site portfolio."
+      ],
+      "image": "/portfolio.png",
+      "tags": [
+        {
+          "name": "TailwindCSS",
+          "image": "/Tailwindcss.svg"
+        },
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "NextJS",
+          "image": "/Nextjs.svg"
+        },
+        {
+          "name": "Vercel",
+          "image": "/Vercel.png"
+        }
+      ],
+      "links": [
+        {
+          "name": "Site Web",
+          "href": "https://mohamed-rahmani.vercel.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/mohamed-rahmani/mohamed-rahmani.vercel.app",
+          "icon": "github"
+        }
+      ]
+    },
+    {
       "name": "Netdev",
       "description": "Application web réseau social de développeur permettant aux utilisateurs de se connecter uniquement avec github",
       "content": [
