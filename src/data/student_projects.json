@@ -127,7 +127,7 @@
     },
     {
       "name": "Site intranet",
-      "description": "Application web permettant la gestion de service à des clients par le biais de prestataires via des bons de livraisons",
+      "description": "Application web permettant la gestion de services à des clients par le biais de prestataires via des bons de livraison",
       "content": [
         "Durant ma deuxième année de BUT Informatique, j'ai l'occasion de réaliser un site intranet permettant de gérer les relations entre les les clients et les prestataires de l'entreprise Perform Vision Consulting. J'ai donc monté une équipe de 6 personnes pour m'accompagner sur ce projet et la contrainte technique imposé par le cahier des charges était de réaliser ce projet uniquement en PHP avec une architecture MVC et une base de données Postgresql.",
         "Au fil du projet, j'ai été amené a porter plusieurs casquette en passant par celle de chef de projet, en définissant les grandes directives du projet(Diagramme de GANTT) et les tâches à accomplir(Matrice RACI), à développeur back-end, en réalisant des fonctionnalitées comme le service de connexion et le context des composants de l'application pour chaque rôle des utilisateurs(client, prestataires, gestionnaire, commercial, composante, interlocuteur, administrateur)."
