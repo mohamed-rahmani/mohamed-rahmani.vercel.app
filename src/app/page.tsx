@@ -32,7 +32,7 @@ export default async function Home() {
             Villetaneuse 🚀
           </p>
           <p className="mt-2 font-light">
-            À la recherce d&apos;un stage de 3 à <strong>6 mois</strong> pour
+            À la recherche d&apos;un stage de <strong>4 à 6 mois</strong> pour
             mars 2025
           </p>
           <section className="mt-4 flex items-center gap-8">
