@@ -8,7 +8,7 @@ import { ArrowRightIcon, FileDown } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
-const MOHAMED_BIRTH_YEAR = 2005;
+const MOHAMED_BIRTH_YEAR = 2004;
 const LIMIT = 2;
 
 export default async function Home() {
