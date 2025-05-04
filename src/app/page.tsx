@@ -8,7 +8,6 @@ import { ArrowRightIcon, FileDown } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
-const MOHAMED_BIRTH_YEAR = 2004;
 const LIMIT = 2;
 
 export default async function Home() {
@@ -26,14 +25,13 @@ export default async function Home() {
         <div className="flex flex-col">
           <h1 className="text-5xl">Mohamed RAHMANI</h1>
           <p className="mt-4 font-light">
-            {new Date().getFullYear() - MOHAMED_BIRTH_YEAR}
-            {"  ans | "}
-            Développeur Full Stack 💻 | Java/React | Étudiant à l&apos;IUT de
-            Villetaneuse 🚀
+            Développeur Full Stack 💻 | Java / React | Étudiant à l&apos;IUT de
+            Villetaneuse et futur élève ingénieur à l&apos;EFREI Paris 🚀
           </p>
           <p className="mt-2 font-light">
-            À la recherche d&apos;un stage de <strong>4 à 6 mois</strong> pour
-            mars 2025
+            À la recherche d&apos;un contrat d&apos;apprentissage avec un rythme
+            de <strong>3 jours entreprise / 2 jours école</strong> pour une
+            durée de <strong>36 mois</strong>
           </p>
           <section className="mt-4 flex items-center gap-8">
             <Link href="/CV_Mohamed_RAHMANI.pdf" target="_blank">

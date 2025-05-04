@@ -1,6 +1,20 @@
 {
   "education": [
     {
+      "name": "EFREI Paris",
+      "href": "https://www.efrei.fr/",
+      "title": "Cycle ingénieur majeure Big Data & Machine Learning",
+      "logo": "/efrei.jpg",
+      "start": "Septembre 2025",
+      "end": "Juillet 2028",
+      "description": [
+        "STATISTICS & MACHINE LEARNING",
+        "DEEP LEARNING & REINFORCEMENT LEARNING",
+        "LARGE LANGUAGE MODELS(LLM)",
+        "CLOUD COMPUTING"
+      ]
+    },
+    {
       "name": "Université Sorbonne Paris Nord / IUT de Villetaneuse",
       "href": "https://www.univ-spn.fr/",
       "title": "BUT Informatique",
