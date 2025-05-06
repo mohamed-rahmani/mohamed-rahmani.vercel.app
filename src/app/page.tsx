@@ -25,7 +25,7 @@ export default async function Home() {
         <div className="flex flex-col">
           <h1 className="text-5xl">Mohamed RAHMANI</h1>
           <p className="mt-4 font-light">
-            Étudiant à l&apos;IUT de Villetaneuse et futur élève ingénieur à
+            Étudiant en BUT Informatique(Bac+3) et futur élève ingénieur à
             l&apos;EFREI Paris 🚀
           </p>
           <p className="mt-2 font-light">
