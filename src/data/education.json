@@ -29,9 +29,9 @@
       ],
       "links": [
         {
-          "name": "Portfolio",
-          "href": "/projects",
-          "icon": "folder-code"
+          "name": "Bilan",
+          "href": "/but-informatique-portfolio",
+          "icon": "graduation-cap"
         }
       ]
     },

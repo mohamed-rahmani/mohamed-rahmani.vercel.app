@@ -52,7 +52,9 @@ export default async function ProjectPage({ params }: { params: PageParams }) {
         </p>
       ))}
 
-      <h1 className="text-4xl font-bold mt-6">Stack technique</h1>
+      {project.tags.length > 0 && (
+        <h1 className="text-4xl font-bold mt-6">Stack technique</h1>
+      )}
       <div className="mt-6 flex flex-wrap gap-2">
         {project.tags.map((tag) => (
           <Badge

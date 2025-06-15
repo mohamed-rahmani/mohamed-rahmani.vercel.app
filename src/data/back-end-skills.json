@@ -1,14 +1,12 @@
 {
   "skills": [
     {
-      "name": "Spring Boot",
-      "image": "/SpringBoot.webp",
-      "description": "Framework Java EE"
+      "name": "Java",
+      "image": "/Javaee.png"
     },
     {
-      "name": "PostgreSQL",
-      "image": "/Postgresql.png",
-      "description": "Base de données SQL"
+      "name": "Python",
+      "image": "/Python.webp"
     }
   ]
 }

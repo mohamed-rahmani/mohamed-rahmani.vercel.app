@@ -1,51 +1,7 @@
 {
   "projects": [
     {
-      "name": "Site de formations",
-      "description": "Site web de formations en ligne qui permet aux utilisateurs de trouver des formations à leur goût ou bien d'être formateurs pour donner des formations",
-      "content": [
-        "Durant ma deuxième année de BUT Informatique, j'ai été amené à concevoir et réaliser un site de formations en ligne pour l'entreprise Perform Vision Consulting et à l'occasion, j'ai integré une formidable équipe de 6 personnes en tant qu'auditeur interne.",
-        "L'objectif était de réaliser un audit du site de formations déjà existant en PHP. Dès le début du projet, nous avons donc réfléchi à une nouvelle stack technique du projet tout en essayant de garder ce qui a été fait au niveau logique métier. Pour cela, nous avons opté pour une partie back-end en Laravel, qui est un framework PHP, et côté front-end, nous sommes partis sur React, qui est un framework/librairies Javascript.",
-        "Pour ma part, je me suis principalement concentré sur la migration du code PHP existant vers le framework Laravel, avec une membre de l'équipe, et le développement de fonctionnalités comme un chat de discussion entre les formateurs et des prospect ou encore un système d'authentification. J'ai également particpé au côté front-end de l'application web en développant des composants React comme le sign up et sign in et toute l'interface de discussion des formateurs et des prospects.",
-        "Tout ça, accompagné d'un Trello avec un suivi des tickets et la mise en place d'un repo Gitlab pour le développement collaboratif."
-      ],
-      "image": "/site-formation-demo.gif",
-      "tags": [
-        {
-          "name": "Typescript",
-          "image": "/Typescript.png"
-        },
-        {
-          "name": "React",
-          "image": "/React.webp"
-        },
-        {
-          "name": "PHP",
-          "image": "/Php.png"
-        },
-        {
-          "name": "Laravel",
-          "image": "/Laravel.png"
-        },
-        {
-          "name": "PostgreSQL",
-          "image": "/Postgresql.png"
-        },
-        {
-          "name": "CSS",
-          "image": "/CSS.webp"
-        }
-      ],
-      "links": [
-        {
-          "name": "Source",
-          "href": "https://gitlab.sorbonne-paris-nord.fr/lorbh/audit-paqueta",
-          "icon": "gitlab"
-        }
-      ]
-    },
-    {
-      "name": "Vizucar",
+      "name": "Vizucar - S5",
       "description": "Sélecteur multimodal permettant aux utilisateurs de chercher des images de voiture à partir d'un texte",
       "content": [
         "Pour ma dernière année de BUT Informatique, j'ai eu l'occasion de réaliser un sélecteur multimodal texte vers image sur une thématique au choix dans une équipe de 4 personnes. Nous avons donc choisis par consensus de partir sur un sélecteur multimodal permettant de taper le nom d'une voiture et d'afficher les images pertinentes à la recherche.",
@@ -122,11 +78,87 @@
           "name": "Source",
           "href": "https://github.com/vizucar",
           "icon": "github"
+        },
+        {
+          "name": "Rapport",
+          "href": "/SAE501_rapport.pdf",
+          "icon": "file-text"
         }
       ]
     },
     {
-      "name": "Site intranet",
+      "name": "Site de formations - S4",
+      "description": "Site web de formations en ligne qui permet aux utilisateurs de trouver des formations à leur goût ou bien d'être formateurs pour donner des formations",
+      "content": [
+        "Durant ma deuxième année de BUT Informatique, j'ai été amené à concevoir et réaliser un site de formations en ligne pour l'entreprise Perform Vision Consulting et à l'occasion, j'ai integré une formidable équipe de 6 personnes en tant qu'auditeur interne.",
+        "L'objectif était de réaliser un audit du site de formations déjà existant en PHP. Dès le début du projet, nous avons donc réfléchi à une nouvelle stack technique du projet tout en essayant de garder ce qui a été fait au niveau logique métier. Pour cela, nous avons opté pour une partie back-end en Laravel, qui est un framework PHP, et côté front-end, nous sommes partis sur React, qui est un framework/librairies Javascript.",
+        "Pour ma part, je me suis principalement concentré sur la migration du code PHP existant vers le framework Laravel, avec une membre de l'équipe, et le développement de fonctionnalités comme un chat de discussion entre les formateurs et des prospect ou encore un système d'authentification. J'ai également particpé au côté front-end de l'application web en développant des composants React comme le sign up et sign in et toute l'interface de discussion des formateurs et des prospects.",
+        "Tout ça, accompagné d'un Trello avec un suivi des tickets et la mise en place d'un repo Gitlab pour le développement collaboratif."
+      ],
+      "image": "/site-formation-demo.gif",
+      "tags": [
+        {
+          "name": "Typescript",
+          "image": "/Typescript.png"
+        },
+        {
+          "name": "React",
+          "image": "/React.webp"
+        },
+        {
+          "name": "PHP",
+          "image": "/Php.png"
+        },
+        {
+          "name": "Laravel",
+          "image": "/Laravel.png"
+        },
+        {
+          "name": "PostgreSQL",
+          "image": "/Postgresql.png"
+        },
+        {
+          "name": "CSS",
+          "image": "/CSS.webp"
+        }
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://gitlab.sorbonne-paris-nord.fr/lorbh/audit-paqueta",
+          "icon": "gitlab"
+        },
+        {
+          "name": "Drive",
+          "href": "https://drive.google.com/drive/folders/15iOtA-7PCVrLGltHEZ07Hfc3FP139ri5?usp=drive_link",
+          "icon": "folder"
+        }
+      ]
+    },
+    {
+      "name": "L'architecture de Microsoft Azure - S4",
+      "description": "Analyse et présentation de l'architecture logicielle du SaaS, Microsoft Azure",
+      "content": [
+        "Au sein du module Architecture Logicielle, nous avons pour but, par binôme, d'analyser l'architecture logicielle d'une application et avec Nassim BLILIK, nous avons choisi d'analyser Mircrosoft Azure.",
+        "Pour en savoir plus, n'hésitez pas à consulter le rapport réalisé sur le sujet."
+      ],
+      "image": "/microsoft_azure.gif",
+      "tags": [],
+      "links": [
+        {
+          "name": "Site Web",
+          "href": "https://iot.m3la.org/project/2024_but_saphir_microsoft_azure/",
+          "icon": "globe"
+        },
+        {
+          "name": "Rapport",
+          "href": "/rapport_microsoft_azure.pdf",
+          "icon": "file-text"
+        }
+      ]
+    },
+    {
+      "name": "Site intranet - S3",
       "description": "Application web permettant la gestion de services à des clients par le biais de prestataires via des bons de livraison",
       "content": [
         "Durant ma deuxième année de BUT Informatique, j'ai l'occasion de réaliser un site intranet permettant de gérer les relations entre les les clients et les prestataires de l'entreprise Perform Vision Consulting. J'ai donc monté une équipe de 6 personnes pour m'accompagner sur ce projet et la contrainte technique imposé par le cahier des charges était de réaliser ce projet uniquement en PHP avec une architecture MVC et une base de données Postgresql.",
