@@ -10,8 +10,8 @@ export default function Skills() {
   return (
     <Tabs defaultValue="frontend">
       <TabsList className="mb-2 grid w-full grid-cols-2">
-        <TabsTrigger value="frontend">Front-End</TabsTrigger>
-        <TabsTrigger value="backend">Back-End</TabsTrigger>
+        <TabsTrigger value="frontend">Langages</TabsTrigger>
+        <TabsTrigger value="backend">Frameworks</TabsTrigger>
       </TabsList>
       <TabsContent value="frontend">
         <section className="grid grid-cols-1 gap-4 sm:grid-cols-3">

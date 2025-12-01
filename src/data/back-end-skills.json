@@ -1,12 +1,12 @@
 {
   "skills": [
     {
-      "name": "Java",
-      "image": "/Javaee.png"
+      "name": "Spring Boot",
+      "image": "/SpringBoot.webp"
     },
     {
-      "name": "Python",
-      "image": "/Python.webp"
+      "name": "React",
+      "image": "/React.webp"
     }
   ]
 }

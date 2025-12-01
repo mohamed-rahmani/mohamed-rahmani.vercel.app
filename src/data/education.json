@@ -1,18 +1,12 @@
 {
   "education": [
     {
-      "name": "EFREI Paris",
-      "href": "https://www.efrei.fr/",
-      "title": "Cycle ingénieur majeure Big Data & Machine Learning",
-      "logo": "/efrei.jpg",
+      "name": "Université Evry Paris Saclay",
+      "href": "https://www.univ-evry.fr/",
+      "title": "M1 MIAGE - Ingénierie logicielle pour le web",
+      "logo": "/logo-univ-evry.png",
       "start": "Septembre 2025",
-      "end": "Juillet 2028",
-      "description": [
-        "STATISTICS & MACHINE LEARNING",
-        "DEEP LEARNING & REINFORCEMENT LEARNING",
-        "LARGE LANGUAGE MODELS(LLM)",
-        "CLOUD COMPUTING"
-      ]
+      "end": "Juillet 2027"
     },
     {
       "name": "Université Sorbonne Paris Nord / IUT de Villetaneuse",

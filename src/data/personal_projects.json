@@ -51,11 +51,6 @@
       ],
       "links": [
         {
-          "name": "Site Web",
-          "href": "https://covaire.vercel.app/",
-          "icon": "globe"
-        },
-        {
           "name": "Source",
           "href": "https://github.com/mohamed-rahmani/CovAire",
           "icon": "github"
@@ -147,11 +142,6 @@
         }
       ],
       "links": [
-        {
-          "name": "Site Web",
-          "href": "https://netdev.vercel.app/",
-          "icon": "globe"
-        },
         {
           "name": "Source",
           "href": "https://github.com/mohamed-rahmani/NetDev",

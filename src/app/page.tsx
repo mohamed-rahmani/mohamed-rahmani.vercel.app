@@ -25,14 +25,7 @@ export default async function Home() {
         <div className="flex flex-col">
           <h1 className="text-5xl">Mohamed RAHMANI</h1>
           <p className="mt-4 font-light">
-            Étudiant en BUT Informatique(Bac+3) et futur élève ingénieur à
-            l&apos;EFREI Paris 🚀
-          </p>
-          <p className="mt-2 font-light">
-            À la recherche d&apos;un contrat d&apos;apprentissage en Big Data &
-            Machine Learning avec un rythme de{" "}
-            <strong>3 jours entreprise / 2 jours école</strong> pour une durée
-            de <strong>36 mois</strong>
+            Étudiant en Master 1 MIAGE - Ingénierie logicielle pour le web
           </p>
           <section className="mt-4 flex items-center gap-8">
             <Link href="/CV_Mohamed_RAHMANI.pdf" target="_blank">
