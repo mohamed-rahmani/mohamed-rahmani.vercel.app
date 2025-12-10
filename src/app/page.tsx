@@ -15,8 +15,8 @@ export default async function Home() {
     <article className="mt-8 flex flex-col gap-16 pb-16">
       <section className="flex flex-col items-start gap-8 md:flex-row-reverse md:items-center md:justify-between">
         <Image
-          className="rounded-lg w-48 h-48"
-          src="/mohamed.JPG"
+          className="rounded-lg w-48 h-48 object-cover object-center"
+          src="/mohamed.jpeg"
           alt="Photo de Mohamed"
           width={175}
           height={175}
