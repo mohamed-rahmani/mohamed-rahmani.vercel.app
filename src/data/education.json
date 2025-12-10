@@ -1,10 +1,10 @@
 {
   "education": [
     {
-      "name": "Université Evry Paris Saclay",
-      "href": "https://www.univ-evry.fr/",
-      "title": "M1 MIAGE - Ingénierie logicielle pour le web",
-      "logo": "/logo-univ-evry.png",
+      "name": "Université Paris Saclay",
+      "href": "https://www.universite-paris-saclay.fr/",
+      "title": "M1 Ingénierie logicielle pour le web",
+      "logo": "/universite-paris-saclay-logo.png",
       "start": "Septembre 2025",
       "end": "Juillet 2027"
     },
@@ -14,20 +14,7 @@
       "title": "BUT Informatique",
       "logo": "/uspn.png",
       "start": "Septembre 2022",
-      "end": "Juillet 2025",
-      "description": [
-        "Développement logiciel",
-        "Optimisation algorithmique",
-        "Administration système & Virtualisation",
-        "Gestion de projet"
-      ],
-      "links": [
-        {
-          "name": "Bilan",
-          "href": "/but-informatique-portfolio",
-          "icon": "graduation-cap"
-        }
-      ]
+      "end": "Juillet 2025"
     },
     {
       "name": "Lycée Maurice Utrillo",
